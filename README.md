@@ -1,5 +1,7 @@
 # VAMPIRE: Using a Random Forest to Forecast Earth’s Outer Van Allen Radiation Belt
+
  [![DOI10.5281/zenodo.17552557](https://zenodo.org/badge/950518739.svg)](https://doi.org/10.5281/zenodo.17552557)
+ 
  **V**an **A**llen Belt **M**ulti-day **P**redictions by **I**mplementing a **R**andom Forest for **E**lectrons
  
 
