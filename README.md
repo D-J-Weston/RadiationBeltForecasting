@@ -1,6 +1,6 @@
 # VAMPIRE: Using a Random Forest to Forecast Earth’s Outer Van Allen Radiation Belt
  **V**an **A**llen Belt **M**ulti-day **P**redictions by **I**mplementing a **R**andom Forest for **E**lectrons
- 
+ [![DOI](https://zenodo.org/badge/950518739.svg)](https://doi.org/10.5281/zenodo.17552557)
 An outer Radiation Belt forecasting model, predicting if the maximum daily 1.8MeV Electron Flux or daily 1.8MeV Electron Fluence will exceed set thresholds.
 
 The model uses a random forest methodology and uses selected inputs from the OMNI dataset, with the flux measurements from Van Allen Probe,
